@@ -1,0 +1,8 @@
+2026-02-01 16:19:53,009 - INFO - Placing MARKET order | Symbol=BTCUSDT, Side=BUY, Qty=0.01
+2026-02-01 16:19:53,449 - INFO - Market order placed successfully
+2026-02-01 16:21:04,835 - INFO - Placing MARKET order | Symbol=BTCUSDT, Side=BUY, Qty=0.01
+2026-02-01 16:21:05,288 - INFO - Market order placed successfully
+2026-02-01 16:26:18,036 - INFO - MARKET order | Symbol=BTCUSDT, Side=BUY, Qty=0.01
+2026-02-01 16:26:18,444 - INFO - Market order placed successfully
+2026-02-01 16:27:57,296 - INFO - LIMIT order | Symbol=BTCUSDT, Side=SELL, Qty=0.01, Price=45000.0
+2026-02-01 16:27:57,719 - INFO - Limit order placed successfully
