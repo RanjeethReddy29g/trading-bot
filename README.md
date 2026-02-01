@@ -107,4 +107,3 @@ API integration
 Input validation
 Logging and error handling
 Real-world interaction with a trading API
-It is suitable for evaluation as a Junior / Intern Python Developer assignment.
