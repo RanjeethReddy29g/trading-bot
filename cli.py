@@ -13,8 +13,8 @@ logging.basicConfig(
 )
 
 # ================= API KEYS =================
-API_KEY = "vC18J3blvsaNRZ2vyeS2pkI6XHN5vnPV7X0P5ObrdmUH9HZA9AkhC9feOs6RPpCL"
-API_SECRET = "WvUwE5vutNNKp0O99FyzarQ25I4MNoIe7BTLPDaYb3NMfR0zF5EG1LdD2joktSJI"
+API_KEY = "..."
+API_SECRET = "..."
 
 client = Client(API_KEY, API_SECRET)
 client.FUTURES_URL = "https://testnet.binancefuture.com"
